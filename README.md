@@ -17,7 +17,9 @@ Este documento describe los pasos necesarios para realizar la carga de archivos 
 ![00](https://github.com/user-attachments/assets/f7028508-e144-4d01-a0f1-b7851c523a40)
 
 **Paso 2**: Crear las tablas
+
 ![01](https://github.com/user-attachments/assets/f0548e20-5c2c-4d52-8cfc-0f6a988a5987)
+
 
 ![02](https://github.com/user-attachments/assets/2615388d-370e-4866-85c6-d480b14c2774)
 
@@ -37,14 +39,15 @@ Este documento describe los pasos necesarios para realizar la carga de archivos 
    ![07](https://github.com/user-attachments/assets/9baebc77-3db6-4ff4-a19f-59eed87afef6)
 
 4. Películas estrenadas entre los años 1990 y 1999, ordenadas por título ascendente
-   ![08](https://github.com/user-attachments/assets/662e591f-26a3-41fd-b09d-be3a5f45157d)
+   ![09](https://github.com/user-attachments/assets/79e493fd-b445-4d99-9cc8-b6890210f52c)
 
 5. Mostrar los títulos con su longitud (nombre como longitud_titulo)
-   ![09](https://github.com/user-attachments/assets/79e493fd-b445-4d99-9cc8-b6890210f52c)
+   ![10](https://github.com/user-attachments/assets/bac79576-b8f7-4f0c-8d25-8e67d0c1c6ea)
 
     
 6. Consultar la longitud más grande entre todos los títulos de las películas
-   ![10](https://github.com/user-attachments/assets/bac79576-b8f7-4f0c-8d25-8e67d0c1c6ea)
+   ![11](https://github.com/user-attachments/assets/2505359f-343f-4884-bfdb-b0325f05ed43)
+
  
 ### Autor
 
